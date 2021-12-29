@@ -1,5 +1,4 @@
-![I'M ISHITA RASTOGI](https://user-images.githubusercontent.com/75082382/138858009-732ab593-4528-427c-a96f-235b2276d45d.png)
-
+![I'M ISHITA RASTOGI]
 <h3 align="center"></h3>
 
 <h2 align="center"> 👨‍💻 Who am I?</h2>
